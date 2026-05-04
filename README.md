@@ -27,7 +27,7 @@
 
 > Adaptacyjna platforma do nauki matematyki z AI. Działa produkcyjnie, generuje przychód.
 
-Statyczne kursy online nie diagnozują luk — dają tylko bazę zadań z testami abc. Prywatne korepetycje diagnozują, ale kosztują 100–150 zł/h i są niedostępne o 23:00. Amathi rozwiązuje te problemy: AI analizuje **tok rozumowania** ucznia na interaktywnej tablicy. Model widzy ucznia monitoruje, które tematy są opanowane. System ELO dobiera zadania optymalnie do poziomu, a głosowy asystent prowadzi korepetycje 1:1 w czasie rzeczywistym.
+Statyczne kursy online nie diagnozują luk — dają tylko bazę zadań z testami abc lub nagrania wideo. Prywatne korepetycje diagnozują, ale kosztują 100–150 zł/h i są niedostępne o 23:00. Amathi rozwiązuje te problemy: AI analizuje **tok rozumowania** ucznia na interaktywnej tablicy. Model widzy ucznia monitoruje, które tematy są opanowane. System ELO dobiera zadania optymalnie do poziomu, a głosowy asystent prowadzi korepetycje 1:1 w czasie rzeczywistym.
 
 **Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · estymacja wyniku maturalnego
 

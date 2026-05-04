@@ -47,15 +47,24 @@ Statyczne kursy online nie diagnozują luk — dają tylko bazę zadań z testam
 
 ---
 
-### 🌿 [Freyr](https://github.com/pawelmalkowski4/Freyr)
+### 🌿 [Freyr's Eye](https://github.com/pawelmalkowski4/Freyr) 🥈
 
-> *Plant tracker — bo rośliny też zasługują na uwagę.*
+> *AIoT plant monitoring — bo rośliny też zasługują na uwagę.*
 
-Aplikacja do śledzenia i pielęgnacji roślin domowych z AI rozpoznającym potrzeby roślin.
+System monitoringu roślin: czujnik glebowy + aplikacja mobilna + AI advisor, który rozpoznaje gatunek ze zdjęcia i mówi prostym językiem, jak zadbać o roślinę.
+
+**🏆 2. miejsce na Hacknarök X (2026)** — 24h hackathon, EESTEC AGH Kraków.
 
 **Moja rola:** aplikacja mobilna, backend, integracja Gemini API.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-7B1FA2?style=flat-square&logo=zephyrproject&logoColor=white)
+![Nordic Semiconductor](https://img.shields.io/badge/nRF54L15-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/BLE_5.4-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---

@@ -21,21 +21,29 @@
 
 ---
 
-## 🏗️ Projekty
+## 🏗️ Ostatnie projekty
 
-### 🎓 [Amathi](https://github.com/MaciejKlepacki/amathi-showcase) → [amathi.pl](https://amathi.pl)
+### 🎓 [Amathi](https://github.com/MaciejKlepacki/amathi-showcase) · [amathi.pl](https://amathi.pl)
 
-> *Adaptacyjna platforma do nauki matematyki z AI. Działa produkcyjnie.*
+> Adaptacyjna platforma do nauki matematyki z AI. Działa produkcyjnie, generuje przychód.
 
-Platforma, która łączy korepetytora z systemem AI rozumiejącym **tok rozumowania** ucznia, nie tylko wynik. Założona w 2026. Moduły AI: **Tutor** (głosowy asystent prowadzący lekcję 1:1), **Check** (ocena toku rozumowania), **Skills** (atomowy model kompetencji), **system ELO** dla uczniów i zadań. Pełny stack zbudowany samodzielnie — od backendu, przez integrację Gemini API, po automatyzację płatności Stripe.
+Statyczne kursy online nie diagnozują luk — dają tylko bazę zadań z testami abc. Prywatne korepetycje diagnozują, ale kosztują 100–150 zł/h i są niedostępne o 23:00. Amathi rozwiązuje te problemy: AI analizuje **tok rozumowania** ucznia na interaktywnej tablicy. Model widzy ucznia monitoruje, które tematy są opanowane. System ELO dobiera zadania optymalnie do poziomu, a głosowy asystent prowadzi korepetycje 1:1 w czasie rzeczywistym.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+**Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · estymacja wyniku maturalnego
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![tldraw](https://img.shields.io/badge/tldraw-000000?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![KaTeX](https://img.shields.io/badge/KaTeX-008080?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 ---
 

@@ -89,14 +89,18 @@ Zautomatyzowany stend testowy oparty na Arduino UNO, który zastępuje ręczne Q
 
 > *Twój smartfon to teraz inteligentne lustro.*
 
-Aplikacja webowa, która w czasie rzeczywistym analizuje outfit przez kamerkę — ocenia go w skali 0–100, wskazuje co działa, co nie, i sugeruje konkretne produkty ze sklepów. Zbudowana w **7 godzin** na hackathonie Software Mansion × Google DeepMind w Krakowie (marzec 2026), w gronie 149 uczestników i 66 zespołów.
+Aplikacja webowa, która w czasie rzeczywistym analizuje outfit przez kamerkę — ocenia go w skali 0–100, wskazuje co działa, a co nie, sugeruje konkretne produkty ze sklepów (z linkami do zakupu) i pozwala na **wirtualną przymiarkę** dowolnej rekomendacji dzięki generowaniu obrazu przez Gemini. Detekcja postaci i ubrań działa lokalnie w przeglądarce na TensorFlow.js (COCO-SSD), a niskolatencyjne wideo dostarcza Fishjam Cloud. Zbudowana w **7 godzin** na hackathonie Software Mansion × Google DeepMind w Krakowie (marzec 2026), w gronie 149 uczestników i 66 zespołów — w torze Real-Time Multimodal AI.
 
-**Moja rola:** integracja Gemini API i pozostałych zewnętrznych API (rozpoznawanie outfit'u, dobór produktów).
+**Moja rola:** integracja Gemini API i pozostałych zewnętrznych API (rozpoznawanie outfitu, dobór produktów, wirtualna przymiarka).
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Fishjam](https://img.shields.io/badge/Fishjam_Cloud-00B4D8?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 

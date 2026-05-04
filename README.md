@@ -16,7 +16,7 @@
 
 - 🎓 Studiuję **Informatykę** (Wydział Informatyki) i **Zarządzanie** (Wydział Zarządzania) na AGH w Krakowie
 - 🛠️ Founder [**Amathi**](https://amathi.pl) — działającej produkcyjnie platformy do nauki matematyki z AI
-- 💡 Buduję od liceum: hardware (technik elektronik), software, produkty
+- 💡 Buduję od technikum: hardware (technik elektronik), software
 - 📬 Kontakt: **[maciek.klepacki@icloud.com](mailto:maciek.klepacki@icloud.com)**
 
 ---

@@ -69,14 +69,19 @@ System monitoringu roślin: czujnik glebowy + aplikacja mobilna + AI advisor, kt
 
 ---
 
-
 ### 🔐 [RFID Access Control Tester](https://github.com/MaciejKlepacki/Checking-the-correct-operation-of-access-control)
 
 > *Automatyzacja weryfikacji systemów kontroli dostępu.*
 
-Narzędzie w C++ do automatycznego testowania poprawności działania czytników kart i klawiatur w systemach kontroli dostępu — eliminuje ręczne sprawdzanie i przyspiesza QA. Projekt powstał w trakcie stażu w Radioton/Axxonsoft.
+Zautomatyzowany stend testowy oparty na Arduino UNO, który zastępuje ręczne QA czytników kart i klawiatur w systemach kontroli dostępu. Mechanicznie symuluje interakcje użytkownika — naciska klawisze za pomocą 19 serw SG-90 sterowanych przez PCA9685 i prezentuje karty RFID czterem czytnikom za pomocą karuzeli na silniku krokowym. Całość orkiestrowana przez interfejs webowy serwowany z karty SD na Ethernet Shield, dostępny z dowolnego urządzenia w sieci lokalnej. Projekt powstał w trakcie stażu w Radioton/Axxonsoft.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ethernet](https://img.shields.io/badge/Ethernet-HTTP-4A4A4A?style=flat-square)
+![I²C](https://img.shields.io/badge/I²C-PCA9685-FF6F00?style=flat-square)
 
 ---
 

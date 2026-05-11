@@ -90,7 +90,7 @@ Zautomatyzowany stend testowy oparty na Arduino UNO, który zastępuje ręczne Q
 
 > *Twój smartfon to teraz inteligentne lustro.*
 
-Aplikacja webowa, która w czasie rzeczywistym analizuje outfit przez kamerkę — ocenia go w skali 0–100, wskazuje co działa, a co nie, sugeruje konkretne produkty ze sklepów (z linkami do zakupu) i pozwala na **wirtualną przymiarkę** dowolnej rekomendacji dzięki generowaniu obrazu przez Gemini. Detekcja postaci i ubrań działa lokalnie w przeglądarce na TensorFlow.js (COCO-SSD), a niskolatencyjne wideo dostarcza Fishjam Cloud. Zbudowana w **7 godzin** na hackathonie Software Mansion × Google DeepMind w Krakowie (marzec 2026), w gronie 149 uczestników i 66 zespołów — w torze Real-Time Multimodal AI.
+Aplikacja webowa, która w czasie rzeczywistym analizuje outfit przez kamerkę — ocenia go w skali 0–100, wskazuje co pasuje, a co nie, sugeruje konkretne produkty ze sklepów (z linkami do zakupu) i pozwala na **wirtualną przymiarkę** dowolnej rekomendacji dzięki generowaniu obrazu przez Gemini. Detekcja postaci i ubrań działa lokalnie w przeglądarce na TensorFlow.js (COCO-SSD), a niskolatencyjne wideo dostarcza Fishjam Cloud. Zbudowana w **7 godzin** na hackathonie Software Mansion × Google DeepMind w Krakowie (marzec 2026), w gronie 149 uczestników i 66 zespołów — w torze Real-Time Multimodal AI.
 
 **Moja rola:** integracja Gemini API i pozostałych zewnętrznych API (rozpoznawanie outfitu, dobór produktów, wirtualna przymiarka).
 

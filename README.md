@@ -19,7 +19,7 @@
 - 🦬 Stypendysta [**Bison Fellowship**](https://www.bisonfellowship.com/)
 - 🎓 Studiuję **Informatykę** (Wydział Informatyki, 5 semestr) i **Zarządzanie** (Wydział Zarządzania, 3 semestr) na AGH w Krakowie
 - 💡 Buduję od technikum: hardware oraz software
-- 🏃 Poza kodem: sport — ścigam się i uczę jazdy na nartach, gram w tenisa, pływam na windsurfingu, biegam, chodzę na siłownię
+- 🏃 Poza kodem: sport — ścigam się i uczę jazdy na nartach, gram w tenisa, pływam na windsurfingu, biegam
 - 📬 Kontakt: **[maciek.klepacki@icloud.com](mailto:maciek.klepacki@icloud.com)**
 
 ---

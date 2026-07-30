@@ -2,8 +2,7 @@
 
 # 👋 Cześć, jestem Maciek
 
-### Founder [Amathi](https://amathi.pl) — adaptacyjnej platformy do nauki matematyki z AI · Student AGH
-### Na codzień staram się zajmować łączeniem kropek :)
+### Founder [Amathi](https://amathi.pl)
 
 [![Amathi](https://img.shields.io/badge/Amathi-1a1a1a?style=for-the-badge)](https://amathi.pl)
 

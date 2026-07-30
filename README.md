@@ -17,23 +17,22 @@
 
 - 🛠️ Founder [**Amathi**](https://amathi.pl) — działającej produkcyjnie platformy do nauki matematyki z AI
 - 🦬 Stypendysta [**Bison Fellowship**](https://www.bisonfellowship.com/)
-- 🎓 Studiuję **Informatykę** (Wydział Informatyki) i **Zarządzanie** (Wydział Zarządzania) na AGH w Krakowie
+- 🎓 Studiuję **Informatykę** (Wydział Informatyki, 5 semestr) i **Zarządzanie** (Wydział Zarządzania, 3 semestr) na AGH w Krakowie
 - 💡 Buduję od technikum: hardware oraz software
+- 🏃 Poza kodem: sport — ścigam się i uczę jazdy na nartach, gram w tenisa, pływam na windsurfingu, biegam, chodzę na siłownię
 - 📬 Kontakt: **[maciek.klepacki@icloud.com](mailto:maciek.klepacki@icloud.com)**
 
 ---
 
 ## 🏗️ Ostatnie projekty
 
-### 🎓 [Amathi](https://amathi.pl)
+### 🎓 [amathi AI](https://amathi.pl)
 
-> Adaptacyjna platforma do nauki matematyki z AI. Działa produkcyjnie i generuje przychód.
+> Adaptacyjna platforma do samodzielnej nauki matematyki z AI. Działa produkcyjnie — subskrypcja w przygotowaniu, na razie dostęp idzie w pakiecie z korepetycjami na amathi MENTOR.
 
-Statyczne kursy online dają bazę zadań, testy ABC albo nagrania wideo, ale nie pokazują uczniowi, czego jeszcze nie rozumie. Prywatne korepetycje potrafią diagnozować luki, lecz kosztują 100–150 zł/h i nie są dostępne o 23:00.
+Statyczne kursy online dają bazę zadań, testy ABC albo nagrania wideo, ale nie pokazują uczniowi, czego jeszcze nie rozumie. amathi AI analizuje rozwiązania i zapisany na interaktywnej tablicy tok rozumowania ucznia. Model wiedzy (graf umiejętności) wskazuje opanowane kompetencje i luki, a system ELO dobiera kolejne zadania do aktualnego poziomu. Głosowy Tutor prowadzi indywidualną naukę w czasie rzeczywistym.
 
-Amathi łączy oba podejścia. AI analizuje rozwiązania i zapisany na interaktywnej tablicy tok rozumowania ucznia. Model wiedzy wskazuje opanowane umiejętności i luki, a system ELO dobiera kolejne zadania do aktualnego poziomu. Głosowy Tutor prowadzi indywidualną naukę w czasie rzeczywistym.
-
-**Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · ELO · Plan nauki · estymacja wyniku matury podstawowej
+**Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · Test diagnostyczny · ELO · Plan nauki · zbiór zadań
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -43,14 +42,31 @@ Amathi łączy oba podejścia. AI analizuje rozwiązania i zapisany na interakty
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square)
-![Daily.co](https://img.shields.io/badge/Daily.co-00ADEF?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![KaTeX](https://img.shields.io/badge/KaTeX-008080?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
+### 👩‍🏫 [amathi MENTOR](https://korki.amathi.pl)
+
+> Marketplace korepetytorów matematyki online. Działa produkcyjnie i generuje przychód (prowizja od lekcji).
+
+Prywatne korepetycje diagnozują luki w wiedzy ucznia, ale kosztują 100–150 zł/h i wymagają umawiania z wyprzedzeniem. MENTOR łączy ucznia z korepetytorem w jednym miejscu: rezerwacja terminu, wspólna tablica z tym samym grafem umiejętności co w amathi AI, rozmowa wideo i płatności (portfel ucznia, wypłaty dla korepetytorów).
+
+**Moduły:** Rezerwacja lekcji · Tablica współdzielona · Wideorozmowy · Czat uczeń–nauczyciel · Zadania domowe · Portfel i wypłaty
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square)
+![Daily.co](https://img.shields.io/badge/Daily.co-00ADEF?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![KaTeX](https://img.shields.io/badge/KaTeX-008080?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ---
 
 ### 🌿 [Freyr's Eye](https://github.com/pawelmalkowski4/Freyr) 🥈

@@ -32,11 +32,11 @@ Statyczne kursy online dają bazę zadań, testy ABC albo nagrania wideo, ale ni
 
 **Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · Test diagnostyczny · ELO · Plan nauki · zbiór zadań
 
-### 👩‍🏫 [Amathi MENTOR](https://korki.amathi.pl)
+### 👩‍🏫 [Korki Amathi](https://korki.amathi.pl)
 
 > Marketplace korepetytorów matematyki online. Działa produkcyjnie i generuje przychód (prowizja od lekcji).
 
-Prywatne korepetycje diagnozują luki w wiedzy ucznia, ale kosztują 100–150 zł/h i wymagają umawiania z wyprzedzeniem. MENTOR łączy ucznia z korepetytorem w jednym miejscu: rezerwacja terminu, wspólna tablica z tym samym grafem umiejętności co w Amathi AI, rozmowa wideo i płatności (portfel ucznia, wypłaty dla korepetytorów).
+KORKI łączy ucznia z korepetytorem w jednym miejscu: rezerwacja terminu, płatność, wspólna tablica, połączenia, baza zadań, podsumowania lekcji AI i automatyczne przypisywanie zadań domowych.
 
 **Moduły:** Rezerwacja lekcji · Tablica współdzielona · Wideorozmowy · Czat uczeń–nauczyciel · Zadania domowe · Portfel i wypłaty
 

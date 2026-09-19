@@ -105,6 +105,6 @@ The device replaces manual QA of card readers and keypads. Nineteen servo motors
 
 ### Let’s connect
 
-[LinkedIn](https://www.linkedin.com/in/maciej-klepacki-516951310/) · [Email](mailto:maciek.klepacki@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/klepacki-maciej/) · [Email](mailto:maciek.klepacki@icloud.com)
 
 </div>

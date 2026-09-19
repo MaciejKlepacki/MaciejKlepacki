@@ -16,7 +16,7 @@ I build AI-powered products—from education platforms used by real customers to
 ## About me
 
 - Founder and engineer at [**Amathi**](https://amathi.pl), an AI-powered mathematics learning platform
-- **Bison Fellow** at the [Bison Fellowship](https://www.bisonfellowship.com/)
+- **Fellow** at the [Bison Fellowship](https://www.bisonfellowship.com/)
 - Computer Science and Management student at AGH University in Kraków
 - Building software and hardware products since technical school
 - Interested in AI systems, product engineering, education and cybersecurity

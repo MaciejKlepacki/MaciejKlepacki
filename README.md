@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Cześć, jestem Maciek
+# 👋 Hi, I'm Maciek
 
-### Founder [Amathi](https://amathi.pl)
+### Founder & Engineer at [Amathi](https://amathi.pl)
+
+I build AI-powered products—from education platforms used by real customers to security systems for LLM workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-klepacki-516951310/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciek.klepacki@icloud.com)
@@ -11,115 +13,98 @@
 
 ---
 
-## 🙋🏼‍♂️ O mnie
+## About me
 
-- 🛠️ Founder [**Amathi**](https://amathi.pl) — działającej produkcyjnie platformy do nauki matematyki z AI
-- 🦬 Stypendysta [**Bison Fellowship**](https://www.bisonfellowship.com/)
-- 🎓 Studiuję **Informatykę** (Wydział Informatyki, 5 semestr) i **Zarządzanie** (Wydział Zarządzania, 3 semestr) na AGH w Krakowie
-- 💡 Buduję od technikum: hardware oraz software
-- 🏃 Poza kodem: sport — ścigam się i uczę jazdy na nartach, gram w tenisa, pływam na windsurfingu, biegam
-- 📬 Kontakt: **[maciek.klepacki@icloud.com](mailto:maciek.klepacki@icloud.com)**
-
----
-
-## 🚀 Amathi
-
-### 🎓 [Amathi AI](https://amathi.pl)
-
-> Adaptacyjna platforma do samodzielnej nauki matematyki z AI. Działa produkcyjnie — subskrypcja w przygotowaniu, na razie dostęp idzie w pakiecie z korepetycjami na Amathi MENTOR.
-
-Statyczne kursy online dają bazę zadań, testy ABC albo nagrania wideo, ale nie pokazują uczniowi, czego jeszcze nie rozumie. Amathi AI analizuje rozwiązania i zapisany na interaktywnej tablicy tok rozumowania ucznia. Model wiedzy (graf umiejętności) wskazuje opanowane kompetencje i luki, a system ELO dobiera kolejne zadania do aktualnego poziomu. Głosowy Tutor prowadzi indywidualną naukę w czasie rzeczywistym.
-
-**Moduły:** Tutor (voice AI) · Check (ocena rozwiązań) · Skills (atomowy model kompetencji) · Test diagnostyczny · ELO · Plan nauki · zbiór zadań
-
-### 👩‍🏫 [Korki Amathi](https://korki.amathi.pl)
-
-> Marketplace korepetytorów matematyki online. Działa produkcyjnie i generuje przychód (prowizja od lekcji).
-
-KORKI łączy ucznia z korepetytorem w jednym miejscu: rezerwacja terminu, płatność, wspólna tablica, połączenia, baza zadań, podsumowania lekcji AI i automatyczne przypisywanie zadań domowych.
-
-**Moduły:** Rezerwacja lekcji · Tablica współdzielona · Wideorozmowy · Czat uczeń–nauczyciel · Zadania domowe · Portfel i wypłaty
+- Founder and engineer at [**Amathi**](https://amathi.pl), an AI-powered mathematics learning platform
+- **Bison Fellow** at the [Bison Fellowship](https://www.bisonfellowship.com/)
+- Computer Science and Management student at AGH University in Kraków
+- Building software and hardware products since technical school
+- Interested in AI systems, product engineering, education and cybersecurity
+- Outside technology: skiing, tennis, windsurfing and running
 
 ---
 
-## 🏗️ Ostatnie projekty
+## What I’m building
 
-### 🥅 Bramkarz AI 🥇
+### [Amathi AI](https://amathi.pl)
 
-> Możemy sobie wyobrazić, że to taki ochroniarz stojący przy bramce przed klubem, oceniający zapytanie pod różnymi aspektami — między innymi to, czy zawiera dane wrażliwe, jaki jest jego cel i jakie zasady obowiązują w organizacji.
+An adaptive platform for learning mathematics with AI.
 
-Inteligentna bramka (gateway) do zapytań AI, która ocenia wrażliwość danych i decyduje, czy zapytanie może trafić do zewnętrznego modelu w chmurze, czy powinno zostać przetworzone lokalnie, czy zanonimizowane — tak, aby chronić dane wrażliwe organizacji.
+Amathi analyses students’ solutions and reasoning recorded on an interactive whiteboard. Its skill graph identifies mastered concepts and knowledge gaps, while an ELO-based system selects exercises suited to each student’s current level. A voice AI tutor guides students through individual learning sessions in real time.
 
-Projekt zrealizowany dla partnera **BLIK** w ramach **[Bison Fellowship](https://www.bisonfellowship.com/)** — programu stypendialnego prowadzonego przez dr. Macieja Kaweckiego.
+The platform is running in production and is currently available as part of the Amathi tutoring experience. A standalone subscription is in development.
 
-**🏆 1. miejsce na Demo Day Bison Fellowship (2026)** — finał programu, zespół: Maciej Klepacki, Mateusz Lickindorf, Adam Kasprzak.
+**Core features:** Voice AI Tutor · Solution Assessment · Skill Graph · Diagnostic Tests · Adaptive Exercise Selection · Learning Plans
 
-📎 [Post BLIK na LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7483895099668754432/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8piqIBYdT2TrtDqVI4dlLmJcT0CgbsRmw)
 
-**Moja rola:** projekt i implementacja logiki decyzyjnej bramki oraz klasyfikacji zapytań.
+### [KORKI Amathi](https://korki.amathi.pl)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-LLM_Routing-4285F4?style=flat-square)
-![Security](https://img.shields.io/badge/Data_Security-Sensitivity_Classification-D32F2F?style=flat-square)
+A revenue-generating online marketplace for mathematics tutoring.
 
-### 🌿 [Freyr's Eye](https://github.com/pawelmalkowski4/Freyr) 🥈
+The platform brings the entire tutoring workflow into one place: finding a tutor, booking and paying for lessons, video calls, a shared whiteboard, student–teacher chat and AI-generated lesson summaries. AI analyses each student’s work to identify knowledge gaps and automatically assigns targeted homework based on their individual needs.
 
-> *AIoT plant monitoring — bo rośliny też zasługują na uwagę.*
-
-System monitoringu roślin: czujnik glebowy + aplikacja mobilna + AI advisor, który rozpoznaje gatunek ze zdjęcia i mówi prostym językiem, jak zadbać o roślinę.
-
-**🏆 2. miejsce na Hacknarök X (2026)** — 24h hackathon, EESTEC AGH Kraków.
-
-**Moja rola:** aplikacja mobilna, backend, integracja Gemini API.
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-7B1FA2?style=flat-square&logo=zephyrproject&logoColor=white)
-![Nordic Semiconductor](https://img.shields.io/badge/nRF54L15-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/BLE_5.4-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+**Core features:** Lesson Booking · Payments · Shared Whiteboard · Video Calls · Chat · AI Lesson Summaries · Knowledge Gap Detection · AI-Assigned Homework · Tutor Payouts · Mobile App
 
 ---
 
-### 🔐 [RFID Access Control Tester](https://github.com/MaciejKlepacki/Checking-the-correct-operation-of-access-control)
+## Selected projects
 
-> *Automatyzacja weryfikacji systemów kontroli dostępu.*
+### 🥇 AI Security Gateway
 
-Zautomatyzowany stend testowy oparty na Arduino UNO, który zastępuje ręczne QA czytników kart i klawiatur w systemach kontroli dostępu. Mechanicznie symuluje interakcje użytkownika — naciska klawisze za pomocą 19 serw SG-90 sterowanych przez PCA9685 i prezentuje karty RFID czterem czytnikom za pomocą karuzeli na silniku krokowym. Całość orkiestrowana przez interfejs webowy serwowany z karty SD na Ethernet Shield, dostępny z dowolnego urządzenia w sieci lokalnej. Projekt powstał w trakcie stażu w Radioton/Axxonsoft.
+A security gateway that evaluates prompts before they reach an external AI model. It classifies data sensitivity and decides whether a request can be processed in the cloud, should remain local or must be anonymised.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ethernet](https://img.shields.io/badge/Ethernet-HTTP-4A4A4A?style=flat-square)
-![I²C](https://img.shields.io/badge/I²C-PCA9685-FF6F00?style=flat-square)
+Built for **BLIK** during the [Bison Fellowship](https://www.bisonfellowship.com/), a programme led by Dr Maciej Kawecki.
+
+**1st place at the 2026 Bison Fellowship Demo Day**
+
+**My contribution:** designed and implemented the gateway’s decision logic and prompt-classification system.
+
+**Tech:** Python · LLM Routing · Data Sensitivity Classification
+
+[See the BLIK announcement on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7483895099668754432/)
 
 ---
 
-### 🪞 [DripCheck](https://github.com/MaciejKlepacki/DripCheck)
+### 🥈 [Freyr’s Eye](https://github.com/pawelmalkowski4/Freyr)
 
-> *Twój smartfon to teraz inteligentne lustro.*
+An AIoT plant-monitoring system combining soil sensors, a mobile application and an AI assistant. It recognises plant species from photos and provides clear, practical care recommendations.
 
-Aplikacja webowa, która w czasie rzeczywistym analizuje outfit przez kamerkę — ocenia go w skali 0–100, wskazuje co pasuje, a co nie, sugeruje konkretne produkty ze sklepów (z linkami do zakupu) i pozwala na **wirtualną przymiarkę** dowolnej rekomendacji dzięki generowaniu obrazu przez Gemini. Detekcja postaci i ubrań działa lokalnie w przeglądarce na TensorFlow.js (COCO-SSD), a niskolatencyjne wideo dostarcza Fishjam Cloud. Zbudowana w **7 godzin** na hackathonie Software Mansion × Google DeepMind w Krakowie (marzec 2026), w gronie 149 uczestników i 66 zespołów — w torze Real-Time Multimodal AI.
+Built during the 24-hour **Hacknarök X** hackathon organised by EESTEC AGH Kraków.
 
-**Moja rola:** integracja Gemini API i pozostałych zewnętrznych API (rozpoznawanie outfitu, dobór produktów, wirtualna przymiarka).
+**2nd place at Hacknarök X 2026**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Fishjam](https://img.shields.io/badge/Fishjam_Cloud-00B4D8?style=flat-square&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+**My contribution:** mobile application, backend and Gemini API integration.
+
+**Tech:** React Native · Expo · TypeScript · Hono · Cloudflare Workers · Gemini API · Zephyr RTOS · Bluetooth LE
+
+---
+
+### [DripCheck](https://github.com/MaciejKlepacki/DripCheck)
+
+A real-time AI outfit assistant built in seven hours during the Software Mansion × Google DeepMind hackathon in Kraków.
+
+DripCheck analyses an outfit through the camera, scores it, explains what works and what could be improved, recommends specific products and generates virtual try-ons. Person and clothing detection runs locally in the browser using TensorFlow.js.
+
+**My contribution:** Gemini API integration and external services responsible for outfit analysis, product recommendations and virtual try-ons.
+
+**Tech:** Next.js · React · TypeScript · TensorFlow.js · Gemini API · Fishjam Cloud
+
+---
+
+### [RFID Access Control Tester](https://github.com/MaciejKlepacki/Checking-the-correct-operation-of-access-control)
+
+An automated test bench for access-control systems, developed during my internship at Radioton/AxxonSoft.
+
+The device replaces manual QA of card readers and keypads. Nineteen servo motors simulate keypad input, while a stepper-motor carousel presents RFID cards to four readers. The system is controlled through a web interface available on the local network.
+
+**Tech:** C++ · Arduino · JavaScript · Ethernet · RFID · I²C
 
 ---
 
 <div align="center">
 
+### Let’s connect
+
+[LinkedIn](https://www.linkedin.com/in/maciej-klepacki-516951310/) · [Email](mailto:maciek.klepacki@icloud.com)
 
 </div>

@@ -93,6 +93,8 @@ Every request passes through a gateway: server-side identity and client-scope ch
 
 [Website](https://contral.vercel.app) · [Repository](https://github.com/SzymonTyburczy/GoldmanSachsHackaton)
 
+---
+
 ### [DripCheck](https://github.com/MaciejKlepacki/DripCheck)
 
 A real-time AI outfit assistant built in seven hours during the Software Mansion × Google DeepMind hackathon in Kraków.

@@ -79,6 +79,20 @@ Built during the 24-hour **Hacknarök X** hackathon organised by EESTEC AGH Krak
 
 ---
 
+### [Contral](https://contral.vercel.app)
+
+An AI control layer that sits between AI agents and the tools, data and models they use. It checks permissions, masks sensitive data before it reaches a model, catches prompt injections, enforces budgets and records every decision in an audit trail.
+
+Built during **HackYeah 2026** for the **Goldman Sachs** challenge, in a team of two.
+
+Every request passes through a gateway: server-side identity and client-scope checks, local PII and secret redaction (Presidio + spaCy), semantic risk scoring, atomic budget reservations and a final output filter. Medium-risk requests pause in a human review queue. Policies are versioned and can be changed live from the operator dashboard.
+
+**My contribution:** gateway core, data model and SQLite schema, versioned policy configuration, audit trail with JSONL export, the operator dashboard and the integration of all components.
+
+**Tech:** Python · FastAPI · Pydantic · SQLite · Presidio · spaCy · OpenAI Responses API · HTML/JS
+
+[Website](https://contral.vercel.app) · [Repository](https://github.com/SzymonTyburczy/GoldmanSachsHackaton)
+
 ### [DripCheck](https://github.com/MaciejKlepacki/DripCheck)
 
 A real-time AI outfit assistant built in seven hours during the Software Mansion × Google DeepMind hackathon in Kraków.
